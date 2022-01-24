@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gauthamhc
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently working with ReactJS
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 Reach me through gautham.hc@gmail.com
 
